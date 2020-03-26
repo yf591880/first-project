@@ -4,4 +4,6 @@ hello again (第二次添加)
 
 hello 嘿嘿嘿 (在Feature_test01分支中添加的代码)
 
+hello 嘻嘻嘻(这个是另一个程序员推送到远程仓库的代码)
+
 hello 嘎嘎嘎(这是本地里新添加的代码)
